@@ -1,0 +1,16 @@
+:root {
+  --dark-brown: #5e2f00;
+  --med-brown: #f9ebdc;
+  --light: #f6f3f0;
+  --med-green: #b7cdbe;
+  --deep-green: #86c18c;
+  --deeper-green: #5dac65;
+}
+
+.myTeamHeader {
+  background-color: var(--deep-green);
+}
+
+.card {
+  background-color: var(--med-green);
+}
